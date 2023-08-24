@@ -1,3 +1,5 @@
+//GetYourDoctor is Android app help you to locate the available doctor near by you.
+
 package com.example.myapplication;
 
 import androidx.annotation.NonNull;
